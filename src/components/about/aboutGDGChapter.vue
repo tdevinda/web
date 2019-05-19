@@ -21,8 +21,6 @@
             <v-flex xs12 sm7 md8 lg8 class="pa-2 my-0">
                 <p class="google-font" style="font-size:120%;">{{chapterDetails.ChapterLongDec}}</p>
 
-                <p class="google-font grey--text mt-3" style="font-size:120%">{{chapterDetails.aboutGDGProgram}}</p>
-
                 <v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Become a Member</v-btn> 
                 &nbsp;
 

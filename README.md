@@ -1,4 +1,4 @@
-# Aura - GDG[x]
+#  - GDG[x]
 
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 

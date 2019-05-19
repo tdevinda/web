@@ -1,31 +1,26 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
+    "ChapterName":"GDG Sri Lanka",
+    "ChapterShortDescription":"GDG Sri Lanka is a community of tech enthusiasts who are interested in Google Developer Technologies and technical advancements in the world.",
+    "ChapterLongDec":"GDG Sri Lanka is a community of tech enthusiasts who are interested in Google Developer Technologies and technical advancements in the world. GDG’s are independent groups that are supported by Google but not part of it.We are a non-profit entity which strive for improvement of the tech education of the local developers. We engage in several events and programs to enrich the local developers with global knowledge.",
+    "ChapterMeetupLink":"https://www.meetup.com/GDG-LK",
+    "ChapterEmail":"gdgsrilanka@gmail.com",
+    "website":"https://gdgsrilanka.org",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDGLK","WTMLK","GDG","WTM"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/GDGSriLanka/",
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/GDGLK",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/GDG-LK/",
             "icon" : "fab fa-meetup"
         }
     ],

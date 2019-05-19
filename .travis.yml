@@ -10,14 +10,8 @@ before_script:
   - npm install
 
 script:
-  - if [ "$TRAVIS_BRANCH" == "develop" ]; then npm run build; fi
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; fi
+  - npm run build
 
-after_success:
-  on:
-    branch: master
-     - firebase deploy --token 1/5P-F8pNcatZYbhCIe60rYzG7kUEyfWXpXhP-MPE1tgfIhveIGxoGPu_bzRhCzVs2
-  on:
-  branch: develop
-    
+after_success:  
+  - firebase deploy --token 1/5P-F8pNcatZYbhCIe60rYzG7kUEyfWXpXhP-MPE1tgfIhveIGxoGPu_bzRhCzVs2
 

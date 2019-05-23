@@ -1,4 +1,13 @@
 [
+   {
+        "name":"Uthpala Weerakoon",
+        "designation":"",
+        "twitter":"https://twitter.com/uthplaWeerakoon",
+        "linkedin":"www.linkedin.com/in/uthpala-weerakoon-068313100",
+        "github":"https://github.com/uthpalaHiro",
+        "profileImage":"uthpala.jpg",
+        "website":""
+    },
     {
         "name":"Suresh Peiris",
         "designation":"",
@@ -33,15 +42,6 @@
         "linkedin":"https://www.linkedin.com/in/pasindu-marasinghe/",
         "github":"https://github.com/PasinduPriyashan",
         "profileImage":"pasidu.jpg",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
         "website":""
     }
 ]

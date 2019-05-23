@@ -1,3 +1,5 @@
+
+[![Build Status](https://travis-ci.com/pamuditha/GDGLKWEB.svg?branch=master)](https://travis-ci.com/pamuditha/GDGLKWEB)
 #  - GDG[x]
 
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->

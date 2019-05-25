@@ -3,8 +3,8 @@
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 sm5 md3 lg3 xl3 class="text-xs-center pa-3">
                 <v-img
-                    :src="require('@/assets/img/gdg.jpg')"
-                    :lazy-src="require('@/assets/img/gdg.jpg')"
+                    :src="require('@/assets/img/gdglk.png')"
+                    :lazy-src="require('@/assets/img/gdglk_lazy.png')"
                     width="100%">
                     <v-layout
                         slot="placeholder"
@@ -20,7 +20,7 @@
             <v-flex xs12 sm7 md8 lg8 xl8 class="">
                 <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:300%">
                     <b>by developers
-                    <span style="color: #1a73e8;"> | </span>for 
+                    <span style="color: #d61b44;"> | </span>for 
                     <span style="color: #1a73e8;"> developers </span></b>
                 </p>
                 <p class="google-font mt-0" style="font-size:180%">{{chapterDetails.ChapterName}}</p>

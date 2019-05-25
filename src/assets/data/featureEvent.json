@@ -1,6 +1,6 @@
 {
     "FeatureEventName":"Kotlin Is Everywhere GDG Sri Lanka",
-    "EventImage":"",
+    "EventImage":"kotlin.png",
     "EventDate":{
         "Date":"28",
         "Month":"09",
@@ -16,6 +16,6 @@
     "EventDescription":"",
     "MeetupLink":"https://www.meetup.com/GDG-LK/events/261529231/",
     "RegistrationLink":"https://rsvp.lk",
-    "FBEventPageURL":"s"
+    "FBEventPageURL":""
 }
 

@@ -40,29 +40,29 @@
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">school</v-icon>
                         <p class="google-font" style="font-size:130%">GDG at Campus</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:110%">Share knowledge in your college or university with GDG</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">airplay</v-icon>
                         <p class="google-font" style="font-size:130%">Live Viewing Parties</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:110%">Get to know the latest technology as it is unveiled</p>
                     </v-flex>
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">memory</v-icon>
                         <p class="google-font" style="font-size:130%">ML Boot Camps </p>
-                        <p class="google-font" style="font-size:110%">Help build strong ML community in Sri Lanka</p>
+                        <p class="google-font" style="font-size:110%">Helping build a strong ML community in Sri Lanka</p>
                     </v-flex>
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">book</v-icon>
-                        <p class="google-font" style="font-size:130%">G College</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:130%">CodeLanka</p>
+                        <p class="google-font" style="font-size:110%">Lets solve tech problems, one line at a time</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">laptop</v-icon>
                         <p class="google-font" style="font-size:130%">Study Jams</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:110%">Focusing on learning a new technology, together</p>
                     </v-flex>
 
                 </v-layout>

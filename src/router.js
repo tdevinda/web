@@ -45,6 +45,12 @@ export default new Router({
       path: '/contact',
       name: 'contact',
       component: () => import('./views/Contact.vue')
+    },
+    {
+      path: '/cloudnext19',
+      name: "cloudnext19",
+      component: () => import('./views/CloudNext19.vue')
+
     }
   ]
 })

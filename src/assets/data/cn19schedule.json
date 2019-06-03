@@ -1,0 +1,62 @@
+[
+	{
+		"from": "08:30 am",
+		"to": "09:00 am",
+		"title": "Registration",
+		"speaker": "GCDC Sri Lanka"
+	},
+	{
+		"from": "09:00 am",
+		"to": "09:30 am",
+		"title": "Ice breaker activity",
+		"speaker": "GCDC Sri Lanka"
+    },
+    {
+		"from": "9:30 am",
+		"to": "10:15 am",
+		"title": "What is SRE?",
+		"speaker": "Tharaka Devinda/ Milindu Sanoj"
+    },
+    {
+		"from": "10:15 am",
+		"to": "11:00 am",
+		"title": "How to work with Cloud Run",
+		"speaker": "Milindu Sanoj"
+    },	
+    {
+		"from": "11:00 am",
+		"to": "12:00 pm",
+		"title": "Plumbing with Kubeflow pipelines",
+		"speaker": "Keshan Sanjaya Sodimana"
+    },	
+    {
+		"from": "12:00 pm",
+		"to": "12:30 pm",
+		"title": "Break",
+		"speaker": "GCDC Sri Lanka"
+    },
+    {
+		"from": "12:30 pm",
+		"to": "01:15 pm",
+		"title": "Deployment Strategies",
+		"speaker": "Ruwan Ranganath"
+    },
+    {
+		"from": "01:15 pm",
+		"to": "01:30 pm",
+		"title": "Way of capturing knowledge and using them",
+		"speaker": "Buddhika Priyabhashana"
+    },
+    {
+		"from": "01:30 pm",
+		"to": "02:15 pm",
+		"title": "Istio and Anthos",
+		"speaker": "Nilesh Jayanandana"
+    },
+    {
+		"from": "02:15 pm",
+		"to": "02:30 pm",
+		"title": "Closing",
+		"speaker": "GCDC Sri Lanka"
+	}
+]

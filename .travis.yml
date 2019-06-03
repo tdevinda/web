@@ -11,7 +11,13 @@ before_script:
 
 script:
   - npm run build
+branches:
+  only:
+  - echo "Master"
+  - master 
 
-after_success:  
+after_success: 
+  - echo "Firebase Depolyment Start"
   - firebase deploy --token $FIREBASE_TOKEN
+  - echo "done"
 

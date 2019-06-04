@@ -1,6 +1,6 @@
 <template>
     <v-container class="pa-0 my-0">
-        <v-layout wrap align-center justify-center row fill-height class="mt-2 elevation-2 white" style="border:1px solid #e0e0e0;border-radius:5px">
+        <v-layout wrap align-center justify-center row fill-height class="mt-2 elevation-2 white" style="border:1px solid #e0e0e0;border-radius:5px" v-for ="eventDetails in eventDetails">
             <v-flex xs12 sm4 md3 lg3 class="pa-4" >
                 <v-img
                     :src="getImgUrl(eventDetails.EventImage)"

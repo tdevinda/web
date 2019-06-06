@@ -60,6 +60,23 @@
 			</v-layout>
 		</v-container>
 
+		<v-container fluid class="google-font">
+			<v-layout wrap align-center justify-center row fill-height>
+			<v-flex xs12 md10 class="">
+			We have sent out tickets for all those who have been selected as invitees. Please note that 
+			only the people who have valid tickets will be allowed to enter. Anyone without a ticket will not be 
+			able to pass the front door security of Dialog and we will also not allow anyone without a valid ticket to remain in the event.
+
+			<h3 style="color: red">Exchanging the ticket with your friends is not possible due to the ID check</h3>
+
+			</v-flex>
+			<v-flex xs12 md10 class="">
+			Please note that you are expected to <b>NOT</b> bring any laptops or similar electronics because of security requirements of Dialog. We are sorry about the inconvinience this might cause. However, smartphone are allowed and you are welcome to use them for taking down notes or other requirements.
+			
+			</v-flex>
+		</v-layout>
+		</v-container>
+
 		<v-container fluid class="">
 			<v-layout wrap align-center justify-center row fill-height>
 			<v-flex xs12 md10 class="">

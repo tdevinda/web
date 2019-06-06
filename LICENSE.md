@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 Vrijraj Singh, GDG Sri Lanka
+Copyright (c) 2019 GDG Sri Lanka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

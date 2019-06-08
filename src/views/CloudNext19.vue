@@ -77,6 +77,34 @@
 		</v-layout>
 		</v-container>
 
+
+		<v-container fluid class="">
+		<v-layout wrap align-center justify-center row fill-height>
+			<v-flex xs12 md10 class="">
+			<p class="google-font mb-0" style="font-size:200%;color:#0277bd">Slide Resources</p>
+			</v-flex>
+			<v-flex xs12 md10 class="google-font">
+				<h3>What is SRE?</h3>
+				<h4>by <a href="https://twitter.com/tdevinda">@tdevinda</a> and <a
+						href="https://twitter.com/agentmilindu"> @agentmilindu</a></h4>
+				<p>The following resources were used in making the slides.</p>
+				<ul>
+					<li><a href="https://google.com/sre">Google SRE Homepage</a> and the SRE Handbook</li>
+					<li><a href="https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends">SRE vs DevOps</a> </li>
+					<li><p>SRE vs DevOps youtube channel</p>
+						<br/>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/uTEL8Ff1Zvk"
+								frameborder="0"
+								allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+					</iframe></li>
+				</ul>
+			</v-flex>
+		</v-layout>
+		</v-container>
+
+
+
 		<v-container fluid class="">
 			<v-layout wrap align-center justify-center row fill-height>
 			<v-flex xs12 md10 class="">

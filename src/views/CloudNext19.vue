@@ -87,6 +87,8 @@
 				<h3>What is SRE?</h3>
 				<h4>by <a href="https://twitter.com/tdevinda">@tdevinda</a> and <a
 						href="https://twitter.com/agentmilindu"> @agentmilindu</a></h4>
+						</br>
+						<p> Slide <a href="https://docs.google.com/presentation/d/1JWQGXHyZkMA1syD418wgq99VIbWOHC558Ud2ar4CnFY/edit?usp=sharing"> here </a> </p>
 				<p>The following resources were used in making the slides.</p>
 				<ul>
 					<li><a href="https://google.com/sre">Google SRE Homepage</a> and the SRE Handbook</li>
@@ -99,12 +101,66 @@
 
 					</iframe></li>
 				</ul>
+				</br>
+				</br>
 			</v-flex>
+<v-flex xs12 md10 class="google-font">
+				<h3>How to work with Cloud Run</h3>
+				<h4>by<a href="https://twitter.com/agentmilindu"> @agentmilindu</a></h4>
+				</br>
+				<p> Slide <a href="https://docs.google.com/presentation/d/1mYMH2XBnP25-3AeTKpq04tcXVae1R2aBOi48oOWqHzs/edit?usp=sharing"> here </a> </p>
+			<p>The following resources were used in making the slides.</p>
+				<ul>
+					<li><a href="https://cloud.google.com/run/docs/">Google Official Documentation</a> </li>
+					
+				</ul>
+</br>
+				</br>
+			</v-flex>
+<v-flex xs12 md10 class="google-font">
+				<h3>Plumbing with Kubeflow pipelines</h3>
+				<h4>by<a href="https://twitter.com/crazykesh"> @crazykesh</a></h4>
+				</br>
+				<p> Slide <a href="https://docs.google.com/presentation/d/1NOYVjpal8WfLfzG7DDvYUidvC_llFu5aEX3Ekl_DpaI/edit?usp=sharing"> here </a> </p>
+			<p>The following resources were used in making the slides.</p>
+				<ul>
+					<li><a href="https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines">Google Blog</a> </li>
+					
+				</ul>
+</br>
+				</br>
+			</v-flex>
+
+			<v-flex xs12 md10 class="google-font">
+				<h3>Deployment Strategies</h3>
+				<h4>by<a href="https://twitter.com/Ruwan_Ranganath"> @Ruwan_Ranganath</a></h4>
+				</br>
+				<p> Slide <a href="https://drive.google.com/file/d/1H9k9-ApKGZ7T8R_0IKSrIvj3wSSqPLzw/view?usp=sharing"> here </a> </p>
+			<p>The following resources were used in making the slides.</p>
+				<ul>
+					<li><a href="https://cloud.google.com/solutions/continuous-delivery/">Google Cloud Documentation</a> </li>
+					
+				</ul>
+</br>
+				</br>
+			</v-flex>
+
+				<v-flex xs12 md10 class="google-font">
+				<h3>Istio and Anthos</h3>
+				<h4>by<a href="https://twitter.com/Nilesh_93"> @Nilesh_93</a></h4>
+				</br>
+				<p> Slide <a href="https://docs.google.com/presentation/d/1VNQEWbnLaLrlTckfoQXPavtACybv0aycVClQ6hxBz88/edit?ts=5cfbb0c4#slide=id.g55b81fcea7_13_929"> here </a> </p>
+			<p>The following resources were used in making the slides.</p>
+				<ul>
+					<li><a href="https://cloud.google.com/anthos/docs/concepts/anthos-overview/">Anthos Overview</a> </li>
+					<li><a href="https://istio.io/">Istio.io</a> </li>
+				</ul>
+
+			</v-flex>
+
+
 		</v-layout>
 		</v-container>
-
-
-
 		<v-container fluid class="">
 			<v-layout wrap align-center justify-center row fill-height>
 			<v-flex xs12 md10 class="">

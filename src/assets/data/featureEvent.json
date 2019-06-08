@@ -17,24 +17,5 @@
     "MeetupLink":"https://www.meetup.com/GDG-LK/events/261529231/",
     "RegistrationLink":"http://rsvp.lk",
     "FBEventPageURL":""
-},{
-    "FeatureEventName":"Google Cloud Next Extended 2019 Sri Lanka",
-    "EventImage":"cn19.jpg",
-    "EventDate":{
-        "Date":"08",
-        "Month":"06",
-        "Year":"2019"
-    },
-    "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"03:30 PM"
-    },
-    "EventVenue":"Dialog Auditorium",
-    "EventVenueMapLink":"https://goo.gl/maps/661ZV2VzxZ4unMj9A",
-    "EventWebsite":"https://gdgsrilanka.org/cloudnext19",
-    "EventDescription":"The extended event for the Cloud Next 2019 recently concluded in San Francisco, will be hapenning in Colombo on the 8th. Google Cloud Developer Community Sri Lanka will be hosting this event to spread awareness on new technologies launched in the main event.",
-    "MeetupLink":"https://www.meetup.com/GCDCLK/events/260462395/",
-    "RegistrationLink":"http://rsvp.lk/gdgsrilanka/cloud-next-2019",
-    "FBEventPageURL":""
 }]
 

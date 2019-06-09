@@ -127,7 +127,7 @@
 					<li><a href="https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines">Google Blog</a> </li>
 					
 				</ul>
-</br>
+                 </br>
 				</br>
 			</v-flex>
 
@@ -141,7 +141,7 @@
 					<li><a href="https://cloud.google.com/solutions/continuous-delivery/">Google Cloud Documentation</a> </li>
 					
 				</ul>
-</br>
+                </br>
 				</br>
 			</v-flex>
 

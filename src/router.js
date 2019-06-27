@@ -51,6 +51,11 @@ export default new Router({
       name: "cloudnext19",
       component: () => import('./views/CloudNext19.vue')
 
+    },
+    {
+      path: "/ioextended19",
+      name: "ioextended19",
+      component: () => import('./views/ioExtended19.vue')
     }
   ]
 })

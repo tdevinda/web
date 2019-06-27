@@ -1,0 +1,158 @@
+{
+	"common": [
+		{
+			"from": "8.00",
+			"to" : "9.00",
+			"speaker": {
+				"name": "",
+				"post": ""
+			},
+			"topic": "Registration",
+			"background": "coral"
+		},
+		{
+			"from": "9.00",
+			"to" : "9.30",
+			"speaker": {
+				"name": "Michela Mayadunne",
+				"post": "WTM Ambassador"
+			},
+			"topic": "Rewind: What's new in I/O 2019",
+			"background": "#f39c12"
+		},
+		{
+			"from": "13.00",
+			"to" : "13.40",
+			"speaker": {
+				"name": "",
+				"post": ""
+			},
+			"topic": "Lunch Break",
+			"background": "yellow"
+		},
+		{
+			"from": "15.30",
+			"to" : "17.00",
+			"speaker": {
+				"name": "Milindu Kumarage",
+				"post": "Google Developer Expert: Cloud"
+			},
+			"topic": "Google Cloud Platform: Codelab",
+			"background": "coral"
+		}
+	],
+	"trackA": [
+		{
+			"from": "10.00",
+			"to" : "10.40",
+			"speaker": {
+				"name": "Sajeetharan Sinnadurai",
+				"post": "Google Developer Expert: Web Technologies"
+			},
+			"topic": "Whats new in PWA with I/O",
+			"span": 1,
+			"background": "#2ecc71"
+		},
+		{
+			"from": "11.00",
+			"to" : "11.40",
+			"speaker": {
+				"name": "Keshan Sodimana",
+				"post": "Google Developer Expert: Machine Learning"
+			},
+			"topic": "Introduction to Cloud ML",
+			"span": 2,
+			"background": "#2ecc71"
+		},
+		{
+			"from": "12.00",
+			"to" : "12.40",
+			"speaker": {
+				"name": "Michela Mayadunne",
+				"post": "WTM Ambassador"
+			},
+			"topic": "Introduction to Actions on Google",
+			"span": 1,
+			"background": "#2ecc71"
+		},
+		{
+			"from": "14.00",
+			"to" : "15.00",
+			"speaker": {
+				"name": "WTM Ambassadors",
+				"post": "WTM Sri Lanka"
+			},
+			"topic": "Grow your dreams",
+			"span": 1,
+			"background": "turquoise"
+		}
+
+	],
+	"trackB": [
+		{
+			"from": "10.00",
+			"to" : "11.15",
+			"speaker": {
+				"name": "Tharaka Devinda",
+				"post": "Organizer: GDG Sri Lanka | GCDC Sri Lanka"
+			},
+			"topic": "Introduction to containers with Docker",
+			"span": 2,
+			"background": "#17c0eb"
+		},
+		{
+			"from": "11.25",
+			"to" : "12.40",
+			"speaker": {
+				"name": "Milindu Kumarage",
+				"post": "Google Developer Expert: Cloud"
+			},
+			"topic": "Introduction to Kubernetes",
+			"span": 2,
+			"background": "#17c0eb"
+		},
+		{
+			"from": "14.00",
+			"to" : "15.00",
+			"speaker": {
+				"name": "Organizers",
+				"post": "GDG Sri Lanka | GCDC Sri Lanka"
+			},
+			"topic": "Casual discussion",
+			"span": 1,
+			"background": "#17c0eb"
+		}
+	],
+	"outline": [
+		{
+			"common": 0
+		},
+		{
+			"common": 1
+		},
+		{
+			"trackA": 0,
+			"trackB": 0
+		},
+		{
+			"trackA": 1
+		},
+		{
+			"trackB": 1
+		},
+		{
+			"trackA": 2
+		},
+		{
+			"common": 2
+		},
+		{
+			"trackA": 3,
+			"trackB": 2
+		},
+		{
+			"common": 3
+		}
+	]
+	
+}

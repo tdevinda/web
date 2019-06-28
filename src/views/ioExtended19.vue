@@ -41,7 +41,7 @@
 			<v-layout wrap align-center justify-center row fill-height>
 			<v-flex xs12 md10 class="">
 				<p class="google-font mb-0" style="font-size:200%;color:#0277bd">Schedule</p>
-				<table width="60%">
+				<table width="100%">
 					<thead>
 						<tr>
 							<th style="align: center;">Track A</th>

@@ -18,7 +18,8 @@
 				"post": "WTM Ambassador"
 			},
 			"topic": "Rewind: What's new in I/O 2019",
-			"background": "#f39c12"
+			"background": "#f39c12",
+			"slides": "https://docs.google.com/presentation/d/1Nfpba_SeptjAV2XKKWNLdPgr4rvj9-iqoxhiV5PRdUo/edit?usp=drivesdk"
 		},
 		{
 			"from": "13.00",
@@ -51,7 +52,8 @@
 			},
 			"topic": "Whats new in PWA with I/O",
 			"span": 1,
-			"background": "#2ecc71"
+			"background": "#2ecc71",
+			"slides": "https://slides.com/sajeetharan/pwa-new#/"
 		},
 		{
 			"from": "11.00",
@@ -62,7 +64,8 @@
 			},
 			"topic": "Introduction to Cloud ML",
 			"span": 2,
-			"background": "#2ecc71"
+			"background": "#2ecc71",
+			"slides": "https://docs.google.com/presentation/d/1d7i5MrlY1FthY6p4QVOOiaNdeHQ_SOuIgRpBz5pl1j4"
 		},
 		{
 			"from": "12.00",

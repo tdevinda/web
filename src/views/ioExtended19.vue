@@ -56,6 +56,10 @@
 								<div style="margin-left: 6%;margin-bottom: 10%">
 									<h5>{{schedule.common[item.common].speaker.name}}</h5>
 									<h6>{{schedule.common[item.common].speaker.post}}</h6>
+									<h4 v-if="schedule.common[item.common].slides != null">
+										<br/>
+										<a :href="schedule.common[item.common].slides">Slides</a>
+									</h4>
 								</div>
 							</td>
 							<td v-if="item.trackA != null" :rowspan="schedule.trackA[item.trackA].span" class="session-container-track" v-bind:style="{'background-color': schedule.trackA[item.trackA].background}">
@@ -64,6 +68,10 @@
 								<div class="session-element-speakerdetails">
 									<h5>{{schedule.trackA[item.trackA].speaker.name}}</h5>
 									<h6>{{schedule.trackA[item.trackA].speaker.post}}</h6>
+									<h4 v-if="schedule.trackA[item.trackA].slides != null">
+										<br/>
+										<a :href="schedule.trackA[item.trackA].slides">Slides</a>
+									</h4>
 								</div>
 							</td>
 							<td v-if="item.trackB != null" :rowspan="schedule.trackB[item.trackB].span" class="session-container-track" v-bind:style="{'background-color': schedule.trackB[item.trackB].background}">
@@ -72,6 +80,10 @@
 								<div class="session-element-speakerdetails">
 									<h5>{{schedule.trackB[item.trackB].speaker.name}}</h5>
 									<h6>{{schedule.trackB[item.trackB].speaker.post}}</h6>
+									<h4 v-if="schedule.trackB[item.trackB].slides != null">
+										<br/>
+										<a :href="schedule.trackB[item.trackB].slides">Slides</a>
+									</h4>
 								</div>
 							</td>
 							

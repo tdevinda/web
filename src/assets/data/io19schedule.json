@@ -62,7 +62,7 @@
 				"name": "Keshan Sodimana",
 				"post": "Google Developer Expert: Machine Learning"
 			},
-			"topic": "Introduction to Cloud ML",
+			"topic": "Introduction to AutoML",
 			"span": 2,
 			"background": "#2ecc71",
 			"slides": "https://docs.google.com/presentation/d/1d7i5MrlY1FthY6p4QVOOiaNdeHQ_SOuIgRpBz5pl1j4"
@@ -76,7 +76,8 @@
 			},
 			"topic": "Introduction to Actions on Google",
 			"span": 1,
-			"background": "#2ecc71"
+			"background": "#2ecc71",
+			"slides": "https://docs.google.com/presentation/d/1aKlMyWua1EPWmRV1VMaXfZkTe4PwKlqdTMOXH3IZarY"
 		},
 		{
 			"from": "14.00",
@@ -101,7 +102,8 @@
 			},
 			"topic": "Introduction to containers with Docker",
 			"span": 2,
-			"background": "#17c0eb"
+			"background": "#17c0eb",
+			"slides": "https://docs.google.com/presentation/d/1BEePTT8vEew6o2P6_I4wCuWXU1Y-sI9mmrIECxB8k1w/edit?usp=sharing"
 		},
 		{
 			"from": "11.25",

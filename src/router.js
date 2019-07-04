@@ -56,6 +56,11 @@ export default new Router({
       path: "/ioextended19",
       name: "ioextended19",
       component: () => import('./views/ioExtended19.vue')
+    },
+    {
+      path: "/iorewind19",
+      name: "iorewind19",
+      component: () => import('./views/ioExtended19.vue')
     }
   ]
 })
